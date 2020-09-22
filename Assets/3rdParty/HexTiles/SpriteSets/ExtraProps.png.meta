@@ -1,0 +1,6127 @@
+fileFormatVersion: 2
+guid: 14aefffd3622c7347aad64f2bed35801
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: ExtraProps_0
+  - first:
+      213: 21300002
+    second: ExtraProps_1
+  - first:
+      213: 21300004
+    second: ExtraProps_2
+  - first:
+      213: 21300006
+    second: ExtraProps_3
+  - first:
+      213: 21300008
+    second: ExtraProps_4
+  - first:
+      213: 21300010
+    second: ExtraProps_5
+  - first:
+      213: 21300012
+    second: ExtraProps_6
+  - first:
+      213: 21300014
+    second: ExtraProps_7
+  - first:
+      213: 21300016
+    second: ExtraProps_8
+  - first:
+      213: 21300018
+    second: ExtraProps_9
+  - first:
+      213: 21300020
+    second: ExtraProps_10
+  - first:
+      213: 21300022
+    second: ExtraProps_11
+  - first:
+      213: 21300024
+    second: ExtraProps_12
+  - first:
+      213: 21300026
+    second: ExtraProps_13
+  - first:
+      213: 21300028
+    second: ExtraProps_14
+  - first:
+      213: 21300030
+    second: ExtraProps_15
+  - first:
+      213: 21300032
+    second: ExtraProps_16
+  - first:
+      213: 21300034
+    second: ExtraProps_17
+  - first:
+      213: 21300036
+    second: ExtraProps_18
+  - first:
+      213: 21300038
+    second: ExtraProps_19
+  - first:
+      213: 21300040
+    second: ExtraProps_20
+  - first:
+      213: 21300042
+    second: ExtraProps_21
+  - first:
+      213: 21300044
+    second: ExtraProps_22
+  - first:
+      213: 21300046
+    second: ExtraProps_23
+  - first:
+      213: 21300048
+    second: ExtraProps_24
+  - first:
+      213: 21300050
+    second: ExtraProps_25
+  - first:
+      213: 21300052
+    second: ExtraProps_26
+  - first:
+      213: 21300054
+    second: ExtraProps_27
+  - first:
+      213: 21300056
+    second: ExtraProps_28
+  - first:
+      213: 21300058
+    second: ExtraProps_29
+  - first:
+      213: 21300060
+    second: ExtraProps_30
+  - first:
+      213: 21300062
+    second: ExtraProps_31
+  - first:
+      213: 21300064
+    second: ExtraProps_32
+  - first:
+      213: 21300066
+    second: ExtraProps_33
+  - first:
+      213: 21300068
+    second: ExtraProps_34
+  - first:
+      213: 21300070
+    second: ExtraProps_35
+  - first:
+      213: 21300072
+    second: ExtraProps_36
+  - first:
+      213: 21300074
+    second: ExtraProps_37
+  - first:
+      213: 21300076
+    second: ExtraProps_38
+  - first:
+      213: 21300078
+    second: ExtraProps_39
+  - first:
+      213: 21300080
+    second: ExtraProps_40
+  - first:
+      213: 21300082
+    second: ExtraProps_41
+  - first:
+      213: 21300084
+    second: ExtraProps_42
+  - first:
+      213: 21300086
+    second: ExtraProps_43
+  - first:
+      213: 21300088
+    second: ExtraProps_44
+  - first:
+      213: 21300090
+    second: ExtraProps_45
+  - first:
+      213: 21300092
+    second: ExtraProps_46
+  - first:
+      213: 21300094
+    second: ExtraProps_47
+  - first:
+      213: 21300096
+    second: ExtraProps_48
+  - first:
+      213: 21300098
+    second: ExtraProps_49
+  - first:
+      213: 21300100
+    second: ExtraProps_50
+  - first:
+      213: 21300102
+    second: ExtraProps_51
+  - first:
+      213: 21300104
+    second: ExtraProps_52
+  - first:
+      213: 21300106
+    second: ExtraProps_53
+  - first:
+      213: 21300108
+    second: ExtraProps_54
+  - first:
+      213: 21300110
+    second: ExtraProps_55
+  - first:
+      213: 21300112
+    second: ExtraProps_56
+  - first:
+      213: 21300114
+    second: ExtraProps_57
+  - first:
+      213: 21300116
+    second: ExtraProps_58
+  - first:
+      213: 21300118
+    second: ExtraProps_59
+  - first:
+      213: 21300120
+    second: ExtraProps_60
+  - first:
+      213: 21300122
+    second: ExtraProps_61
+  - first:
+      213: 21300124
+    second: ExtraProps_62
+  - first:
+      213: 21300126
+    second: ExtraProps_63
+  - first:
+      213: 21300128
+    second: ExtraProps_64
+  - first:
+      213: 21300130
+    second: ExtraProps_65
+  - first:
+      213: 21300132
+    second: ExtraProps_66
+  - first:
+      213: 21300134
+    second: ExtraProps_67
+  - first:
+      213: 21300136
+    second: ExtraProps_68
+  - first:
+      213: 21300138
+    second: ExtraProps_69
+  - first:
+      213: 21300140
+    second: ExtraProps_70
+  - first:
+      213: 21300142
+    second: ExtraProps_71
+  - first:
+      213: 21300144
+    second: ExtraProps_72
+  - first:
+      213: 21300146
+    second: ExtraProps_73
+  - first:
+      213: 21300148
+    second: ExtraProps_74
+  - first:
+      213: 21300150
+    second: ExtraProps_75
+  - first:
+      213: 21300152
+    second: ExtraProps_76
+  - first:
+      213: 21300154
+    second: ExtraProps_77
+  - first:
+      213: 21300156
+    second: ExtraProps_78
+  - first:
+      213: 21300158
+    second: ExtraProps_79
+  - first:
+      213: 21300160
+    second: ExtraProps_80
+  - first:
+      213: 21300162
+    second: ExtraProps_81
+  - first:
+      213: 21300164
+    second: ExtraProps_82
+  - first:
+      213: 21300166
+    second: ExtraProps_83
+  - first:
+      213: 21300168
+    second: ExtraProps_84
+  - first:
+      213: 21300170
+    second: ExtraProps_85
+  - first:
+      213: 21300172
+    second: ExtraProps_86
+  - first:
+      213: 21300174
+    second: ExtraProps_87
+  - first:
+      213: 21300176
+    second: ExtraProps_88
+  - first:
+      213: 21300178
+    second: ExtraProps_89
+  - first:
+      213: 21300180
+    second: ExtraProps_90
+  - first:
+      213: 21300182
+    second: ExtraProps_91
+  - first:
+      213: 21300184
+    second: ExtraProps_92
+  - first:
+      213: 21300186
+    second: ExtraProps_93
+  - first:
+      213: 21300188
+    second: ExtraProps_94
+  - first:
+      213: 21300190
+    second: ExtraProps_95
+  - first:
+      213: 21300192
+    second: ExtraProps_96
+  - first:
+      213: 21300194
+    second: ExtraProps_97
+  - first:
+      213: 21300196
+    second: ExtraProps_98
+  - first:
+      213: 21300198
+    second: ExtraProps_99
+  - first:
+      213: 21300200
+    second: ExtraProps_100
+  - first:
+      213: 21300202
+    second: ExtraProps_101
+  - first:
+      213: 21300204
+    second: ExtraProps_102
+  - first:
+      213: 21300206
+    second: ExtraProps_103
+  - first:
+      213: 21300208
+    second: ExtraProps_104
+  - first:
+      213: 21300210
+    second: ExtraProps_105
+  - first:
+      213: 21300212
+    second: ExtraProps_106
+  - first:
+      213: 21300214
+    second: ExtraProps_107
+  - first:
+      213: 21300216
+    second: ExtraProps_108
+  - first:
+      213: 21300218
+    second: ExtraProps_109
+  - first:
+      213: 21300220
+    second: ExtraProps_110
+  - first:
+      213: 21300222
+    second: ExtraProps_111
+  - first:
+      213: 21300224
+    second: ExtraProps_112
+  - first:
+      213: 21300226
+    second: ExtraProps_113
+  - first:
+      213: 21300228
+    second: ExtraProps_114
+  - first:
+      213: 21300230
+    second: ExtraProps_115
+  - first:
+      213: 21300232
+    second: ExtraProps_116
+  - first:
+      213: 21300234
+    second: ExtraProps_117
+  - first:
+      213: 21300236
+    second: ExtraProps_118
+  - first:
+      213: 21300238
+    second: ExtraProps_119
+  - first:
+      213: 21300240
+    second: ExtraProps_120
+  - first:
+      213: 21300242
+    second: ExtraProps_121
+  - first:
+      213: 21300244
+    second: ExtraProps_122
+  - first:
+      213: 21300246
+    second: ExtraProps_123
+  - first:
+      213: 21300248
+    second: ExtraProps_124
+  - first:
+      213: 21300250
+    second: ExtraProps_125
+  - first:
+      213: 21300252
+    second: ExtraProps_126
+  - first:
+      213: 21300254
+    second: ExtraProps_127
+  - first:
+      213: 21300256
+    second: ExtraProps_128
+  - first:
+      213: 21300258
+    second: ExtraProps_129
+  - first:
+      213: 21300260
+    second: ExtraProps_130
+  - first:
+      213: 21300262
+    second: ExtraProps_131
+  - first:
+      213: 21300264
+    second: ExtraProps_132
+  - first:
+      213: 21300266
+    second: ExtraProps_133
+  - first:
+      213: 21300268
+    second: ExtraProps_134
+  - first:
+      213: 21300270
+    second: ExtraProps_135
+  - first:
+      213: 21300272
+    second: ExtraProps_136
+  - first:
+      213: 21300274
+    second: ExtraProps_137
+  - first:
+      213: 21300276
+    second: ExtraProps_138
+  - first:
+      213: 21300278
+    second: ExtraProps_139
+  - first:
+      213: 21300280
+    second: ExtraProps_140
+  - first:
+      213: 21300282
+    second: ExtraProps_141
+  - first:
+      213: 21300284
+    second: ExtraProps_142
+  - first:
+      213: 21300286
+    second: ExtraProps_143
+  - first:
+      213: 21300288
+    second: ExtraProps_144
+  - first:
+      213: 21300290
+    second: ExtraProps_145
+  - first:
+      213: 21300292
+    second: ExtraProps_146
+  - first:
+      213: 21300294
+    second: ExtraProps_147
+  - first:
+      213: 21300296
+    second: ExtraProps_148
+  - first:
+      213: 21300298
+    second: ExtraProps_149
+  - first:
+      213: 21300300
+    second: ExtraProps_150
+  - first:
+      213: 21300302
+    second: ExtraProps_151
+  - first:
+      213: 21300304
+    second: ExtraProps_152
+  - first:
+      213: 21300306
+    second: ExtraProps_153
+  - first:
+      213: 21300308
+    second: ExtraProps_154
+  - first:
+      213: 21300310
+    second: ExtraProps_155
+  - first:
+      213: 21300312
+    second: ExtraProps_156
+  - first:
+      213: 21300314
+    second: ExtraProps_157
+  - first:
+      213: 21300316
+    second: ExtraProps_158
+  - first:
+      213: 21300318
+    second: ExtraProps_159
+  - first:
+      213: 21300320
+    second: ExtraProps_160
+  - first:
+      213: 21300322
+    second: ExtraProps_161
+  - first:
+      213: 21300324
+    second: ExtraProps_162
+  - first:
+      213: 21300326
+    second: ExtraProps_163
+  - first:
+      213: 21300328
+    second: ExtraProps_164
+  - first:
+      213: 21300330
+    second: ExtraProps_165
+  - first:
+      213: 21300332
+    second: ExtraProps_166
+  - first:
+      213: 21300334
+    second: ExtraProps_167
+  - first:
+      213: 21300336
+    second: ExtraProps_168
+  - first:
+      213: 21300338
+    second: ExtraProps_169
+  - first:
+      213: 21300340
+    second: ExtraProps_170
+  - first:
+      213: 21300342
+    second: ExtraProps_171
+  - first:
+      213: 21300344
+    second: ExtraProps_172
+  - first:
+      213: 21300346
+    second: ExtraProps_173
+  - first:
+      213: 21300348
+    second: ExtraProps_174
+  - first:
+      213: 21300350
+    second: ExtraProps_175
+  - first:
+      213: 21300352
+    second: ExtraProps_176
+  - first:
+      213: 21300354
+    second: ExtraProps_177
+  - first:
+      213: 21300356
+    second: ExtraProps_178
+  - first:
+      213: 21300358
+    second: ExtraProps_179
+  - first:
+      213: 21300360
+    second: ExtraProps_180
+  - first:
+      213: 21300362
+    second: ExtraProps_181
+  - first:
+      213: 21300364
+    second: ExtraProps_182
+  - first:
+      213: 21300366
+    second: ExtraProps_183
+  - first:
+      213: 21300368
+    second: ExtraProps_184
+  - first:
+      213: 21300370
+    second: ExtraProps_185
+  - first:
+      213: 21300372
+    second: ExtraProps_186
+  - first:
+      213: 21300374
+    second: ExtraProps_187
+  - first:
+      213: 21300376
+    second: ExtraProps_188
+  - first:
+      213: 21300378
+    second: ExtraProps_189
+  - first:
+      213: 21300380
+    second: ExtraProps_190
+  - first:
+      213: 21300382
+    second: ExtraProps_191
+  - first:
+      213: 21300384
+    second: ExtraProps_192
+  - first:
+      213: 21300386
+    second: ExtraProps_193
+  - first:
+      213: 21300388
+    second: ExtraProps_194
+  - first:
+      213: 21300390
+    second: ExtraProps_195
+  - first:
+      213: 21300392
+    second: ExtraProps_196
+  - first:
+      213: 21300394
+    second: ExtraProps_197
+  - first:
+      213: 21300396
+    second: ExtraProps_198
+  - first:
+      213: 21300398
+    second: ExtraProps_199
+  - first:
+      213: 21300400
+    second: ExtraProps_200
+  - first:
+      213: 21300402
+    second: ExtraProps_201
+  - first:
+      213: 21300404
+    second: ExtraProps_202
+  - first:
+      213: 21300406
+    second: ExtraProps_203
+  - first:
+      213: 21300408
+    second: ExtraProps_204
+  - first:
+      213: 21300410
+    second: ExtraProps_205
+  - first:
+      213: 21300412
+    second: ExtraProps_206
+  - first:
+      213: 21300414
+    second: ExtraProps_207
+  - first:
+      213: 21300416
+    second: ExtraProps_208
+  - first:
+      213: 21300418
+    second: ExtraProps_209
+  - first:
+      213: 21300420
+    second: ExtraProps_210
+  - first:
+      213: 21300422
+    second: ExtraProps_211
+  - first:
+      213: 21300424
+    second: ExtraProps_212
+  - first:
+      213: 21300426
+    second: ExtraProps_213
+  - first:
+      213: 21300428
+    second: ExtraProps_214
+  - first:
+      213: 21300430
+    second: ExtraProps_215
+  - first:
+      213: 21300432
+    second: ExtraProps_216
+  - first:
+      213: 21300434
+    second: ExtraProps_217
+  - first:
+      213: 21300436
+    second: ExtraProps_218
+  - first:
+      213: 21300438
+    second: ExtraProps_219
+  - first:
+      213: 21300440
+    second: ExtraProps_220
+  - first:
+      213: 21300442
+    second: ExtraProps_221
+  - first:
+      213: 21300444
+    second: ExtraProps_222
+  - first:
+      213: 7134985201001533909
+    second: ExtraProps_0
+  - first:
+      213: 2930015638002523828
+    second: ExtraProps_1
+  - first:
+      213: 1465668270011826721
+    second: ExtraProps_2
+  - first:
+      213: 5991712840191670459
+    second: ExtraProps_3
+  - first:
+      213: -1046614064200349827
+    second: ExtraProps_4
+  - first:
+      213: 8134864778860562753
+    second: ExtraProps_5
+  - first:
+      213: -3463915863713435033
+    second: ExtraProps_6
+  - first:
+      213: -8213011250891662099
+    second: ExtraProps_7
+  - first:
+      213: 2969566292535748679
+    second: ExtraProps_8
+  - first:
+      213: 8418800161103323622
+    second: ExtraProps_9
+  - first:
+      213: -3681827057608175082
+    second: ExtraProps_10
+  - first:
+      213: 8479814811486847160
+    second: ExtraProps_11
+  - first:
+      213: -1245522574870995588
+    second: ExtraProps_12
+  - first:
+      213: -3127255925077920698
+    second: ExtraProps_13
+  - first:
+      213: -6816926125598155835
+    second: ExtraProps_14
+  - first:
+      213: 5177655017139142868
+    second: ExtraProps_15
+  - first:
+      213: 9185785707516613357
+    second: ExtraProps_16
+  - first:
+      213: -6188188572377390925
+    second: ExtraProps_17
+  - first:
+      213: 5924305987241524547
+    second: ExtraProps_18
+  - first:
+      213: 6712860375280222973
+    second: ExtraProps_19
+  - first:
+      213: 8077060459140061350
+    second: ExtraProps_20
+  - first:
+      213: 5748509667517056853
+    second: ExtraProps_21
+  - first:
+      213: -6565630243651043434
+    second: ExtraProps_22
+  - first:
+      213: 9150294819835525950
+    second: ExtraProps_23
+  - first:
+      213: 3170476571982170196
+    second: ExtraProps_24
+  - first:
+      213: -5642180474887199474
+    second: ExtraProps_25
+  - first:
+      213: -5488937579348133967
+    second: ExtraProps_26
+  - first:
+      213: 5212863032005095218
+    second: ExtraProps_27
+  - first:
+      213: -2398072470574814576
+    second: ExtraProps_28
+  - first:
+      213: -8659154215485217270
+    second: ExtraProps_29
+  - first:
+      213: -3045217064687114277
+    second: ExtraProps_30
+  - first:
+      213: -5551479257548604350
+    second: ExtraProps_31
+  - first:
+      213: 882715828064062275
+    second: ExtraProps_32
+  - first:
+      213: -5038679110382986231
+    second: ExtraProps_33
+  - first:
+      213: 7605159528443241207
+    second: ExtraProps_34
+  - first:
+      213: -6466639598486586393
+    second: ExtraProps_35
+  - first:
+      213: 3031166023136617932
+    second: ExtraProps_36
+  - first:
+      213: -309463223783706884
+    second: ExtraProps_37
+  - first:
+      213: -8888415954799326768
+    second: ExtraProps_38
+  - first:
+      213: -4196270713967458207
+    second: ExtraProps_39
+  - first:
+      213: -3038810727847262067
+    second: ExtraProps_40
+  - first:
+      213: 9187463330151516695
+    second: ExtraProps_41
+  - first:
+      213: 6824239468474308721
+    second: ExtraProps_42
+  - first:
+      213: -7784873698225745662
+    second: ExtraProps_43
+  - first:
+      213: -190743824516272005
+    second: ExtraProps_44
+  - first:
+      213: -3771272456510840701
+    second: ExtraProps_45
+  - first:
+      213: 9162687009423701711
+    second: ExtraProps_46
+  - first:
+      213: 8813732579958726262
+    second: ExtraProps_47
+  - first:
+      213: -660425410317819856
+    second: ExtraProps_48
+  - first:
+      213: 3119200602157130458
+    second: ExtraProps_49
+  - first:
+      213: 9053325275155494691
+    second: ExtraProps_50
+  - first:
+      213: -3444778850994822353
+    second: ExtraProps_51
+  - first:
+      213: 6099203303305699812
+    second: ExtraProps_52
+  - first:
+      213: 1131880626631764268
+    second: ExtraProps_53
+  - first:
+      213: 2837544022884824931
+    second: ExtraProps_54
+  - first:
+      213: -6295063857046061351
+    second: ExtraProps_55
+  - first:
+      213: -9046732200175370872
+    second: ExtraProps_56
+  - first:
+      213: -5683016826786342712
+    second: ExtraProps_57
+  - first:
+      213: 4269419483436287307
+    second: ExtraProps_58
+  - first:
+      213: 7800422806138225002
+    second: ExtraProps_59
+  - first:
+      213: -6504596837864412285
+    second: ExtraProps_60
+  - first:
+      213: -5912970062095629309
+    second: ExtraProps_61
+  - first:
+      213: 6899821900304876282
+    second: ExtraProps_62
+  - first:
+      213: -4402338787664486794
+    second: ExtraProps_63
+  - first:
+      213: 6046857598178338419
+    second: ExtraProps_64
+  - first:
+      213: -1278054779475404962
+    second: ExtraProps_65
+  - first:
+      213: -1510790952742447782
+    second: ExtraProps_66
+  - first:
+      213: 6369625822662404038
+    second: ExtraProps_67
+  - first:
+      213: -6053028939965583141
+    second: ExtraProps_68
+  - first:
+      213: -6086384508465915142
+    second: ExtraProps_69
+  - first:
+      213: 7126782449727029510
+    second: ExtraProps_70
+  - first:
+      213: 2243209852824703980
+    second: ExtraProps_71
+  - first:
+      213: 2151221553144346670
+    second: ExtraProps_72
+  - first:
+      213: -8227261569259295015
+    second: ExtraProps_73
+  - first:
+      213: -5967903566377371884
+    second: ExtraProps_74
+  - first:
+      213: 7235278645114309372
+    second: ExtraProps_75
+  - first:
+      213: -278908613205949094
+    second: ExtraProps_76
+  - first:
+      213: -5803803630848841906
+    second: ExtraProps_77
+  - first:
+      213: 928827829184375915
+    second: ExtraProps_78
+  - first:
+      213: 2519443423004443553
+    second: ExtraProps_79
+  - first:
+      213: 5062536522435573919
+    second: ExtraProps_80
+  - first:
+      213: -7577440758784268093
+    second: ExtraProps_81
+  - first:
+      213: 4857224791639867276
+    second: ExtraProps_82
+  - first:
+      213: 6882526045909594182
+    second: ExtraProps_83
+  - first:
+      213: -8868151214360205547
+    second: ExtraProps_84
+  - first:
+      213: 8102370490380714172
+    second: ExtraProps_85
+  - first:
+      213: 65382946564738148
+    second: ExtraProps_86
+  - first:
+      213: -1250660157051823672
+    second: ExtraProps_87
+  - first:
+      213: -8947639848405914765
+    second: ExtraProps_88
+  - first:
+      213: -3481285270417172403
+    second: ExtraProps_89
+  - first:
+      213: -1682563924933943860
+    second: ExtraProps_90
+  - first:
+      213: -4745528145974599326
+    second: ExtraProps_91
+  - first:
+      213: -9205264612182009750
+    second: ExtraProps_92
+  - first:
+      213: -1514583269557081402
+    second: ExtraProps_93
+  - first:
+      213: -5857593738052709887
+    second: ExtraProps_94
+  - first:
+      213: 62922707354291778
+    second: ExtraProps_95
+  - first:
+      213: -1585381281260444501
+    second: ExtraProps_96
+  - first:
+      213: -3670015820236610833
+    second: ExtraProps_97
+  - first:
+      213: 8032820393577695348
+    second: ExtraProps_98
+  - first:
+      213: 2056913582905505500
+    second: ExtraProps_99
+  - first:
+      213: 2730539747357862710
+    second: ExtraProps_100
+  - first:
+      213: -3971221581967686094
+    second: ExtraProps_101
+  - first:
+      213: -3995652751250527447
+    second: ExtraProps_102
+  - first:
+      213: -2980957458443127046
+    second: ExtraProps_103
+  - first:
+      213: 8425862490377874836
+    second: ExtraProps_104
+  - first:
+      213: -1199841358965511220
+    second: ExtraProps_105
+  - first:
+      213: 3775438990079608099
+    second: ExtraProps_106
+  - first:
+      213: -5816691107234789866
+    second: ExtraProps_107
+  - first:
+      213: 8238243547762657018
+    second: ExtraProps_108
+  - first:
+      213: 1728232625270639687
+    second: ExtraProps_109
+  - first:
+      213: -4642667232929853036
+    second: ExtraProps_110
+  - first:
+      213: 8203929988986704599
+    second: ExtraProps_111
+  - first:
+      213: 5625241345488588042
+    second: ExtraProps_112
+  - first:
+      213: -3090053522777533629
+    second: ExtraProps_113
+  - first:
+      213: 5467910055711773132
+    second: ExtraProps_114
+  - first:
+      213: 405836254523384688
+    second: ExtraProps_115
+  - first:
+      213: -5236888785612288520
+    second: ExtraProps_116
+  - first:
+      213: -540694019900953367
+    second: ExtraProps_117
+  - first:
+      213: -6979029896758956209
+    second: ExtraProps_118
+  - first:
+      213: -4853665601939023304
+    second: ExtraProps_119
+  - first:
+      213: 8358425183039588510
+    second: ExtraProps_120
+  - first:
+      213: 3224019215522614266
+    second: ExtraProps_121
+  - first:
+      213: 7728976862051049133
+    second: ExtraProps_122
+  - first:
+      213: -434590666834473426
+    second: ExtraProps_123
+  - first:
+      213: 3897394710086532891
+    second: ExtraProps_124
+  - first:
+      213: 2135452437917076418
+    second: ExtraProps_125
+  - first:
+      213: -2679130087418440586
+    second: ExtraProps_126
+  - first:
+      213: 5025395535635658420
+    second: ExtraProps_127
+  - first:
+      213: -6272088502146071632
+    second: ExtraProps_128
+  - first:
+      213: 8489430638230832664
+    second: ExtraProps_129
+  - first:
+      213: -6090036695387915373
+    second: ExtraProps_130
+  - first:
+      213: -2262713788219569040
+    second: ExtraProps_131
+  - first:
+      213: 8763935191465995902
+    second: ExtraProps_132
+  - first:
+      213: 5537906896387251574
+    second: ExtraProps_133
+  - first:
+      213: 5104197426623625422
+    second: ExtraProps_134
+  - first:
+      213: 5030789473648615697
+    second: ExtraProps_135
+  - first:
+      213: 5518823088544303751
+    second: ExtraProps_136
+  - first:
+      213: -2809683455876418181
+    second: ExtraProps_137
+  - first:
+      213: 4732841489945352818
+    second: ExtraProps_138
+  - first:
+      213: -7190964727763860001
+    second: ExtraProps_139
+  - first:
+      213: 690271644053993825
+    second: ExtraProps_140
+  - first:
+      213: -5583699056822176541
+    second: ExtraProps_141
+  - first:
+      213: -6297820327255095581
+    second: ExtraProps_142
+  - first:
+      213: 248155577557413196
+    second: ExtraProps_143
+  - first:
+      213: -6950700306056127990
+    second: ExtraProps_144
+  - first:
+      213: -7533320699094985807
+    second: ExtraProps_145
+  - first:
+      213: 5733462195192281392
+    second: ExtraProps_146
+  - first:
+      213: 7648502223768289887
+    second: ExtraProps_147
+  - first:
+      213: -1655746158881881994
+    second: ExtraProps_148
+  - first:
+      213: -7199673186920389311
+    second: ExtraProps_149
+  - first:
+      213: -6462925378506712119
+    second: ExtraProps_150
+  - first:
+      213: 4848296523794745072
+    second: ExtraProps_151
+  - first:
+      213: -1467500496615298977
+    second: ExtraProps_152
+  - first:
+      213: -2470298632140495803
+    second: ExtraProps_153
+  - first:
+      213: -3540815447600843192
+    second: ExtraProps_154
+  - first:
+      213: 6153696103450497500
+    second: ExtraProps_155
+  - first:
+      213: -3029455289187968741
+    second: ExtraProps_156
+  - first:
+      213: 7141578425957573605
+    second: ExtraProps_157
+  - first:
+      213: 5893781685724811208
+    second: ExtraProps_158
+  - first:
+      213: 5009410934499563847
+    second: ExtraProps_159
+  - first:
+      213: 59355530512820152
+    second: ExtraProps_160
+  - first:
+      213: 2572235805953308001
+    second: ExtraProps_161
+  - first:
+      213: -3324982760313570534
+    second: ExtraProps_162
+  - first:
+      213: -6631678901527210246
+    second: ExtraProps_163
+  - first:
+      213: 4538188608591229378
+    second: ExtraProps_164
+  - first:
+      213: 7652651619891436795
+    second: ExtraProps_165
+  - first:
+      213: -4045269190206264411
+    second: ExtraProps_166
+  - first:
+      213: 4797546263325732310
+    second: ExtraProps_167
+  - first:
+      213: -391767579436917093
+    second: ExtraProps_168
+  - first:
+      213: 7897599006784841132
+    second: ExtraProps_169
+  - first:
+      213: -2882482844705412727
+    second: ExtraProps_170
+  - first:
+      213: -5225127564162735068
+    second: ExtraProps_171
+  - first:
+      213: -2863274709241442302
+    second: ExtraProps_172
+  - first:
+      213: 5154686305780562561
+    second: ExtraProps_173
+  - first:
+      213: -7541833817333642446
+    second: ExtraProps_174
+  - first:
+      213: 6300648515406135452
+    second: ExtraProps_175
+  - first:
+      213: -4642751437905324141
+    second: ExtraProps_176
+  - first:
+      213: 6254637519074407946
+    second: ExtraProps_177
+  - first:
+      213: -6340176567057852874
+    second: ExtraProps_178
+  - first:
+      213: -4022519142833114393
+    second: ExtraProps_179
+  - first:
+      213: -5208319761936046463
+    second: ExtraProps_180
+  - first:
+      213: 4669417167960118800
+    second: ExtraProps_181
+  - first:
+      213: -4675625602007676068
+    second: ExtraProps_182
+  - first:
+      213: -1164494766635870202
+    second: ExtraProps_183
+  - first:
+      213: 8067374757331614888
+    second: ExtraProps_184
+  - first:
+      213: 8429642943739568535
+    second: ExtraProps_185
+  - first:
+      213: -5917343170426596602
+    second: ExtraProps_186
+  - first:
+      213: 3192878677644163568
+    second: ExtraProps_187
+  - first:
+      213: 1472066325759202617
+    second: ExtraProps_188
+  - first:
+      213: 6658404800049508799
+    second: ExtraProps_189
+  - first:
+      213: 5022378755026047493
+    second: ExtraProps_190
+  - first:
+      213: 919032533430517610
+    second: ExtraProps_191
+  - first:
+      213: -311608829924457340
+    second: ExtraProps_192
+  - first:
+      213: 2330940233542398792
+    second: ExtraProps_193
+  - first:
+      213: -8643972470427147343
+    second: ExtraProps_194
+  - first:
+      213: -4328820481584018397
+    second: ExtraProps_195
+  - first:
+      213: -5441618437938075835
+    second: ExtraProps_196
+  - first:
+      213: -7724491277234540049
+    second: ExtraProps_197
+  - first:
+      213: 3469844400677982636
+    second: ExtraProps_198
+  - first:
+      213: -2339152812383198546
+    second: ExtraProps_199
+  - first:
+      213: 9016634304448848856
+    second: ExtraProps_200
+  - first:
+      213: -52397010489224041
+    second: ExtraProps_201
+  - first:
+      213: 458666177877254216
+    second: ExtraProps_202
+  - first:
+      213: -474478839954072036
+    second: ExtraProps_203
+  - first:
+      213: -7773267639034524532
+    second: ExtraProps_204
+  - first:
+      213: -7553813541080748487
+    second: ExtraProps_205
+  - first:
+      213: 2837263448430150473
+    second: ExtraProps_206
+  - first:
+      213: -7040145292856664529
+    second: ExtraProps_207
+  - first:
+      213: -4093196855263101190
+    second: ExtraProps_208
+  - first:
+      213: -5295877543555397671
+    second: ExtraProps_209
+  - first:
+      213: 5435319850354114213
+    second: ExtraProps_210
+  - first:
+      213: -8983890004983462120
+    second: ExtraProps_211
+  - first:
+      213: 4221674537725927936
+    second: ExtraProps_212
+  - first:
+      213: 1349509386770128228
+    second: ExtraProps_213
+  - first:
+      213: -4393965318462263782
+    second: ExtraProps_214
+  - first:
+      213: 5781788988605015331
+    second: ExtraProps_215
+  - first:
+      213: 4966084308694456251
+    second: ExtraProps_216
+  - first:
+      213: -4687056948078222567
+    second: ExtraProps_217
+  - first:
+      213: 5323815793287539809
+    second: ExtraProps_218
+  - first:
+      213: -531368885208442959
+    second: ExtraProps_219
+  - first:
+      213: 2225781806020237836
+    second: ExtraProps_220
+  - first:
+      213: -166541297366797514
+    second: ExtraProps_221
+  - first:
+      213: -7851179143085823190
+    second: ExtraProps_222
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 95
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ExtraProps_0
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 3697
+        width: 226
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d19d5fcc3f840360800000000000000
+      internalID: 7134985201001533909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_1
+      rect:
+        serializedVersion: 2
+        x: 2241
+        y: 3779
+        width: 175
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4beda79e2b189a820800000000000000
+      internalID: 2930015638002523828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_2
+      rect:
+        serializedVersion: 2
+        x: 2437
+        y: 3789
+        width: 214
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122cd90b689175410800000000000000
+      internalID: 1465668270011826721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_3
+      rect:
+        serializedVersion: 2
+        x: 2689
+        y: 3771
+        width: 286
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb875cb2517d62350800000000000000
+      internalID: 5991712840191670459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_4
+      rect:
+        serializedVersion: 2
+        x: 3005
+        y: 3819
+        width: 184
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d770966cd0ea971f0800000000000000
+      internalID: -1046614064200349827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_5
+      rect:
+        serializedVersion: 2
+        x: 3323
+        y: 3767
+        width: 144
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14902df7a68d4e070800000000000000
+      internalID: 8134864778860562753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_6
+      rect:
+        serializedVersion: 2
+        x: 3549
+        y: 3767
+        width: 176
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7623583efd2bdefc0800000000000000
+      internalID: -3463915863713435033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_7
+      rect:
+        serializedVersion: 2
+        x: 3787
+        y: 3687
+        width: 208
+        height: 290
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: decd05e18c5850e80800000000000000
+      internalID: -8213011250891662099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_8
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 3697
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74821934fc4063920800000000000000
+      internalID: 2969566292535748679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_9
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 3697
+        width: 62
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e1a09d442695d470800000000000000
+      internalID: 8418800161103323622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_10
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 3365
+        width: 196
+        height: 278
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612d7da5cc587ecc0800000000000000
+      internalID: -3681827057608175082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_11
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 3365
+        width: 194
+        height: 278
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b005cf94aa5ea570800000000000000
+      internalID: 8479814811486847160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_12
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 3365
+        width: 168
+        height: 326
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d951531d307bee0800000000000000
+      internalID: -1245522574870995588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_13
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 3343
+        width: 184
+        height: 348
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644bef71e41c994d0800000000000000
+      internalID: -3127255925077920698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_14
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 3637
+        width: 58
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb54af6ec96561a0800000000000000
+      internalID: -6816926125598155835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_15
+      rect:
+        serializedVersion: 2
+        x: 1779
+        y: 3627
+        width: 72
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d009124ec9bad740800000000000000
+      internalID: 5177655017139142868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_16
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 3639
+        width: 63
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2536fbe677a7f70800000000000000
+      internalID: 9185785707516613357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_17
+      rect:
+        serializedVersion: 2
+        x: 2011
+        y: 3607
+        width: 54
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b06054a7432f1aa0800000000000000
+      internalID: -6188188572377390925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_18
+      rect:
+        serializedVersion: 2
+        x: 2127
+        y: 3619
+        width: 74
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d304638ec573250800000000000000
+      internalID: 5924305987241524547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_19
+      rect:
+        serializedVersion: 2
+        x: 2283
+        y: 3627
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df28f5fe1fed82d50800000000000000
+      internalID: 6712860375280222973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_20
+      rect:
+        serializedVersion: 2
+        x: 2377
+        y: 3641
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8956881bb771070800000000000000
+      internalID: 8077060459140061350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_21
+      rect:
+        serializedVersion: 2
+        x: 3627
+        y: 3579
+        width: 60
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557c040f51fc6cf40800000000000000
+      internalID: 5748509667517056853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_22
+      rect:
+        serializedVersion: 2
+        x: 3787
+        y: 3405
+        width: 184
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f3e90641232e4a0800000000000000
+      internalID: -6565630243651043434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_23
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 3333
+        width: 172
+        height: 294
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3bb46688a06cfe70800000000000000
+      internalID: 9150294819835525950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_24
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 3365
+        width: 168
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45802b1f4abcffb20800000000000000
+      internalID: 3170476571982170196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_25
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 3379
+        width: 192
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0524bb60c2f2b1b0800000000000000
+      internalID: -5642180474887199474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_26
+      rect:
+        serializedVersion: 2
+        x: 2163
+        y: 3353
+        width: 172
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b779ac6a5063d3b0800000000000000
+      internalID: -5488937579348133967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_27
+      rect:
+        serializedVersion: 2
+        x: 2401
+        y: 3353
+        width: 190
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23fed650f4fc75840800000000000000
+      internalID: 5212863032005095218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_28
+      rect:
+        serializedVersion: 2
+        x: 2675
+        y: 3379
+        width: 114
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09aaeb52bc558bed0800000000000000
+      internalID: -2398072470574814576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_29
+      rect:
+        serializedVersion: 2
+        x: 2871
+        y: 3379
+        width: 152
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a066da28e1184d780800000000000000
+      internalID: -8659154215485217270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_30
+      rect:
+        serializedVersion: 2
+        x: 3067
+        y: 3371
+        width: 92
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7ed53c6373db5d0800000000000000
+      internalID: -3045217064687114277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_31
+      rect:
+        serializedVersion: 2
+        x: 3215
+        y: 3379
+        width: 158
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24cbddb370f25f2b0800000000000000
+      internalID: -5551479257548604350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_32
+      rect:
+        serializedVersion: 2
+        x: 3441
+        y: 3399
+        width: 132
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b8f596e59004c00800000000000000
+      internalID: 882715828064062275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_33
+      rect:
+        serializedVersion: 2
+        x: 3627
+        y: 3421
+        width: 94
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90cd0709b04031ab0800000000000000
+      internalID: -5038679110382986231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_34
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 3035
+        width: 192
+        height: 268
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f269091c44fa8960800000000000000
+      internalID: 7605159528443241207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_35
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 2953
+        width: 158
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb7bb10c81e146a0800000000000000
+      internalID: -6466639598486586393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_36
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 2945
+        width: 184
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc5aa40307dd01a20800000000000000
+      internalID: 3031166023136617932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_37
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 2953
+        width: 166
+        height: 338
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe235b66d094bbf0800000000000000
+      internalID: -309463223783706884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_38
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 3215
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9854e28c006a480800000000000000
+      internalID: -8888415954799326768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_39
+      rect:
+        serializedVersion: 2
+        x: 1763
+        y: 3219
+        width: 66
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1684898b40ad3c5c0800000000000000
+      internalID: -4196270713967458207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_40
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 3207
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88840b4eb9f3d5d0800000000000000
+      internalID: -3038810727847262067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_41
+      rect:
+        serializedVersion: 2
+        x: 2019
+        y: 3199
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71acb94b83d608f70800000000000000
+      internalID: 9187463330151516695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_42
+      rect:
+        serializedVersion: 2
+        x: 2139
+        y: 3203
+        width: 54
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1789c94e3a194be50800000000000000
+      internalID: 6824239468474308721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_43
+      rect:
+        serializedVersion: 2
+        x: 2247
+        y: 3233
+        width: 74
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20119f31e9296f390800000000000000
+      internalID: -7784873698225745662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_44
+      rect:
+        serializedVersion: 2
+        x: 2397
+        y: 3209
+        width: 104
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70bb9090875a5df0800000000000000
+      internalID: -190743824516272005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_45
+      rect:
+        serializedVersion: 2
+        x: 2519
+        y: 3163
+        width: 110
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 380e47e8eafb9abc0800000000000000
+      internalID: -3771272456510840701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_46
+      rect:
+        serializedVersion: 2
+        x: 2723
+        y: 3171
+        width: 104
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc639c00a47682f70800000000000000
+      internalID: 9162687009423701711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_47
+      rect:
+        serializedVersion: 2
+        x: 2921
+        y: 3183
+        width: 112
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e1ab5951ba05a70800000000000000
+      internalID: 8813732579958726262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_48
+      rect:
+        serializedVersion: 2
+        x: 3109
+        y: 3182
+        width: 98
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0306d51a692b5d6f0800000000000000
+      internalID: -660425410317819856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_49
+      rect:
+        serializedVersion: 2
+        x: 3271
+        y: 3171
+        width: 126
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2a2c2eb60a94b20800000000000000
+      internalID: 3119200602157130458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_50
+      rect:
+        serializedVersion: 2
+        x: 3473
+        y: 3169
+        width: 142
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32775b50f5fd3ad70800000000000000
+      internalID: 9053325275155494691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_51
+      rect:
+        serializedVersion: 2
+        x: 3658
+        y: 3169
+        width: 141
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23eca0e2efa130d0800000000000000
+      internalID: -3444778850994822353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_52
+      rect:
+        serializedVersion: 2
+        x: 3853
+        y: 3171
+        width: 118
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1ec62e619b4a450800000000000000
+      internalID: 6099203303305699812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_53
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 2939
+        width: 216
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c296886de6f35bf00800000000000000
+      internalID: 1131880626631764268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_54
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 3117
+        width: 49
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367359e314bf06720800000000000000
+      internalID: 2837544022884824931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_55
+      rect:
+        serializedVersion: 2
+        x: 1779
+        y: 3109
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de7e5256c073a8a0800000000000000
+      internalID: -6295063857046061351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_56
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 3109
+        width: 72
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d757edefc837280800000000000000
+      internalID: -9046732200175370872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_57
+      rect:
+        serializedVersion: 2
+        x: 2027
+        y: 3133
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c815d25e4ed121b0800000000000000
+      internalID: -5683016826786342712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_58
+      rect:
+        serializedVersion: 2
+        x: 2139
+        y: 3127
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b450a5b5666004b30800000000000000
+      internalID: 4269419483436287307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_59
+      rect:
+        serializedVersion: 2
+        x: 2227
+        y: 3131
+        width: 82
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6189b9b63ba04c60800000000000000
+      internalID: 7800422806138225002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_60
+      rect:
+        serializedVersion: 2
+        x: 2865
+        y: 2975
+        width: 121
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b66f783a70bb5a0800000000000000
+      internalID: -6504596837864412285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_61
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 2999
+        width: 102
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30445498e09e0fda0800000000000000
+      internalID: -5912970062095629309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_62
+      rect:
+        serializedVersion: 2
+        x: 1779
+        y: 2999
+        width: 72
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af20225267711cf50800000000000000
+      internalID: 6899821900304876282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_63
+      rect:
+        serializedVersion: 2
+        x: 1915
+        y: 3015
+        width: 56
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e955c7230c7e2c0800000000000000
+      internalID: -4402338787664486794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_64
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 3055
+        width: 324
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376aacaa2f0cae350800000000000000
+      internalID: 6046857598178338419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_65
+      rect:
+        serializedVersion: 2
+        x: 2509
+        y: 2969
+        width: 112
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57d0e113ff634ee0800000000000000
+      internalID: -1278054779475404962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_66
+      rect:
+        serializedVersion: 2
+        x: 2675
+        y: 2999
+        width: 100
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5599eb02a7980be0800000000000000
+      internalID: -1510790952742447782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_67
+      rect:
+        serializedVersion: 2
+        x: 3061
+        y: 2955
+        width: 120
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7a2ff10f4756850800000000000000
+      internalID: 6369625822662404038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_68
+      rect:
+        serializedVersion: 2
+        x: 3271
+        y: 2909
+        width: 138
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0313adf325ffba0800000000000000
+      internalID: -6053028939965583141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_69
+      rect:
+        serializedVersion: 2
+        x: 3481
+        y: 2905
+        width: 124
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afad27e5981d88ba0800000000000000
+      internalID: -6086384508465915142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_70
+      rect:
+        serializedVersion: 2
+        x: 3631
+        y: 2917
+        width: 140
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601c773f0ea67e260800000000000000
+      internalID: 7126782449727029510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_71
+      rect:
+        serializedVersion: 2
+        x: 3853
+        y: 2905
+        width: 118
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3d542e97b712f10800000000000000
+      internalID: 2243209852824703980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_72
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 2999
+        width: 57
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e28355cda9caadd10800000000000000
+      internalID: 2151221553144346670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_73
+      rect:
+        serializedVersion: 2
+        x: 2049
+        y: 2985
+        width: 320
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dea3125135e2dd80800000000000000
+      internalID: -8227261569259295015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_74
+      rect:
+        serializedVersion: 2
+        x: 2433
+        y: 2965
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4173a40635fbd2da0800000000000000
+      internalID: -5967903566377371884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_75
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 2907
+        width: 62
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa0205f79fd86460800000000000000
+      internalID: 7235278645114309372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_76
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 2947
+        width: 324
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a550011181e112cf0800000000000000
+      internalID: -278908613205949094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_77
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 2675
+        width: 190
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e47e12df85fb47fa0800000000000000
+      internalID: -5803803630848841906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_78
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 2895
+        width: 58
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c28005dfbd3ec00800000000000000
+      internalID: 928827829184375915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_79
+      rect:
+        serializedVersion: 2
+        x: 3523
+        y: 2581
+        width: 114
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3cfd3d17cd6f220800000000000000
+      internalID: 2519443423004443553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_80
+      rect:
+        serializedVersion: 2
+        x: 3681
+        y: 2581
+        width: 112
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f98b63a052eb14640800000000000000
+      internalID: 5062536522435573919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_81
+      rect:
+        serializedVersion: 2
+        x: 3851
+        y: 2565
+        width: 114
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8e812e6c587d690800000000000000
+      internalID: -7577440758784268093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_82
+      rect:
+        serializedVersion: 2
+        x: 2829
+        y: 2469
+        width: 94
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f3aeb9634586340800000000000000
+      internalID: 4857224791639867276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_83
+      rect:
+        serializedVersion: 2
+        x: 2995
+        y: 2459
+        width: 86
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640b0db39f4a38f50800000000000000
+      internalID: 6882526045909594182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_84
+      rect:
+        serializedVersion: 2
+        x: 3549
+        y: 2393
+        width: 98
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5176c9db47ffde480800000000000000
+      internalID: -8868151214360205547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_85
+      rect:
+        serializedVersion: 2
+        x: 3773
+        y: 2215
+        width: 206
+        height: 290
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb000c56807617070800000000000000
+      internalID: 8102370490380714172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_86
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 2113
+        width: 206
+        height: 290
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c0c58817948e000800000000000000
+      internalID: 65382946564738148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_87
+      rect:
+        serializedVersion: 2
+        x: 2589
+        y: 2401
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c91134a633c4aee0800000000000000
+      internalID: -1250660157051823672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_88
+      rect:
+        serializedVersion: 2
+        x: 3255
+        y: 2152
+        width: 220
+        height: 279
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ba2a9e6f893d380800000000000000
+      internalID: -8947639848405914765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_89
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 2145
+        width: 184
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d481cfebd7dffafc0800000000000000
+      internalID: -3481285270417172403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_90
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 2261
+        width: 100
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccddc6e560556a8e0800000000000000
+      internalID: -1682563924933943860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_91
+      rect:
+        serializedVersion: 2
+        x: 2647
+        y: 2349
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261e09b4b4f742eb0800000000000000
+      internalID: -4745528145974599326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_92
+      rect:
+        serializedVersion: 2
+        x: 3063
+        y: 2127
+        width: 158
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a68da675b94504080800000000000000
+      internalID: -9205264612182009750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_93
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 2237
+        width: 122
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6caec4b7a8e1bfae0800000000000000
+      internalID: -1514583269557081402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_94
+      rect:
+        serializedVersion: 2
+        x: 2153
+        y: 2251
+        width: 104
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102d0d4b785a5bea0800000000000000
+      internalID: -5857593738052709887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_95
+      rect:
+        serializedVersion: 2
+        x: 2355
+        y: 2249
+        width: 118
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e88247edb8fd000800000000000000
+      internalID: 62922707354291778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_96
+      rect:
+        serializedVersion: 2
+        x: 2561
+        y: 2291
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba4eae8df189ff9e0800000000000000
+      internalID: -1585381281260444501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_97
+      rect:
+        serializedVersion: 2
+        x: 2829
+        y: 2127
+        width: 156
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2abba5e0c711dc0800000000000000
+      internalID: -3670015820236610833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_98
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 2207
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47846b7969f4a7f60800000000000000
+      internalID: 8032820393577695348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_99
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 2029
+        width: 188
+        height: 259
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd632c27100ab8c10800000000000000
+      internalID: 2056913582905505500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_100
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 2155
+        width: 64
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ba956ee63d4e520800000000000000
+      internalID: 2730539747357862710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_101
+      rect:
+        serializedVersion: 2
+        x: 1979
+        y: 2125
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236837af20363e8c0800000000000000
+      internalID: -3971221581967686094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_102
+      rect:
+        serializedVersion: 2
+        x: 2103
+        y: 2125
+        width: 36
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b66eb1ef69c88c0800000000000000
+      internalID: -3995652751250527447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_103
+      rect:
+        serializedVersion: 2
+        x: 2205
+        y: 2147
+        width: 56
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af632fe3cf281a6d0800000000000000
+      internalID: -2980957458443127046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_104
+      rect:
+        serializedVersion: 2
+        x: 2355
+        y: 2081
+        width: 126
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49de249fa4daee470800000000000000
+      internalID: 8425862490377874836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_105
+      rect:
+        serializedVersion: 2
+        x: 3505
+        y: 1825
+        width: 196
+        height: 342
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccbe90c14ae495fe0800000000000000
+      internalID: -1199841358965511220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_106
+      rect:
+        serializedVersion: 2
+        x: 3735
+        y: 1837
+        width: 238
+        height: 362
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325cad222cd056430800000000000000
+      internalID: 3775438990079608099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_107
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1881
+        width: 52
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616c8119146f64fa0800000000000000
+      internalID: -5816691107234789866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_108
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 1979
+        width: 36
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af60c8dcbde145270800000000000000
+      internalID: 8238243547762657018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_109
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 2067
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c4f768a6aebf710800000000000000
+      internalID: 1728232625270639687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_110
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 2065
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491ded2efbee19fb0800000000000000
+      internalID: -4642667232929853036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_111
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 2101
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d21ab3dbd63ad170800000000000000
+      internalID: 8203929988986704599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_112
+      rect:
+        serializedVersion: 2
+        x: 1669
+        y: 1963
+        width: 44
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d00bd233fd01e40800000000000000
+      internalID: 5625241345488588042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_113
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 1977
+        width: 46
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34396ed51bced15d0800000000000000
+      internalID: -3090053522777533629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_114
+      rect:
+        serializedVersion: 2
+        x: 3279
+        y: 1829
+        width: 186
+        height: 298
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc19c76b93be1eb40800000000000000
+      internalID: 5467910055711773132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_115
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 1911
+        width: 42
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07367db5ce1d1a500800000000000000
+      internalID: 405836254523384688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_116
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 1735
+        width: 198
+        height: 352
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd4a5d4565d257b0800000000000000
+      internalID: -5236888785612288520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_117
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 2035
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec20a357a11f78f0800000000000000
+      internalID: -540694019900953367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_118
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 2019
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4fe9de0941852f90800000000000000
+      internalID: -6979029896758956209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_119
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 2021
+        width: 62
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a54e1d9d054acb0800000000000000
+      internalID: -4853665601939023304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_120
+      rect:
+        serializedVersion: 2
+        x: 2011
+        y: 2029
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9801cc4b671ff370800000000000000
+      internalID: 8358425183039588510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_121
+      rect:
+        serializedVersion: 2
+        x: 2113
+        y: 2019
+        width: 62
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb424a15640ebc20800000000000000
+      internalID: 3224019215522614266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_122
+      rect:
+        serializedVersion: 2
+        x: 2323
+        y: 1963
+        width: 24
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae14c39187d24b60800000000000000
+      internalID: 7728976862051049133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_123
+      rect:
+        serializedVersion: 2
+        x: 2859
+        y: 1877
+        width: 156
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e81a0571608f9f0800000000000000
+      internalID: -434590666834473426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_124
+      rect:
+        serializedVersion: 2
+        x: 3047
+        y: 1847
+        width: 174
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1fb13ce6d3561630800000000000000
+      internalID: 3897394710086532891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_125
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 1927
+        width: 32
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb0acc9da6a2ad10800000000000000
+      internalID: 2135452437917076418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_126
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 1987
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 674dc505161d1dad0800000000000000
+      internalID: -2679130087418440586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_127
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 1953
+        width: 70
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b6b56d2d9acdb540800000000000000
+      internalID: 5025395535635658420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_128
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 1943
+        width: 68
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b385cdfcb015f8a0800000000000000
+      internalID: -6272088502146071632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_129
+      rect:
+        serializedVersion: 2
+        x: 2267
+        y: 1843
+        width: 42
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8160111cf2480d570800000000000000
+      internalID: 8489430638230832664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_130
+      rect:
+        serializedVersion: 2
+        x: 2393
+        y: 1855
+        width: 210
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b3f4654e7db7ba0800000000000000
+      internalID: -6090036695387915373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_131
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1721
+        width: 158
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c4bc84cc93990e0800000000000000
+      internalID: -2262713788219569040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_132
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 1905
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e20e19f90cf9970800000000000000
+      internalID: 8763935191465995902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_133
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 1893
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d195e2bf89adc40800000000000000
+      internalID: 5537906896387251574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_134
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 1869
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec83d5d2480c5d640800000000000000
+      internalID: 5104197426623625422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_135
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 1861
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 111a99c3f54f0d540800000000000000
+      internalID: 5030789473648615697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_136
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 1875
+        width: 82
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a48eaeb5cc69c40800000000000000
+      internalID: 5518823088544303751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_137
+      rect:
+        serializedVersion: 2
+        x: 1973
+        y: 1897
+        width: 112
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75b13188cff109d0800000000000000
+      internalID: -2809683455876418181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_138
+      rect:
+        serializedVersion: 2
+        x: 2143
+        y: 1907
+        width: 72
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a5c6a624e6ea140800000000000000
+      internalID: 4732841489945352818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_139
+      rect:
+        serializedVersion: 2
+        x: 2713
+        y: 1875
+        width: 26
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd58541fdaf843c90800000000000000
+      internalID: -7190964727763860001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_140
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 1613
+        width: 204
+        height: 268
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 169fc5e2766549900800000000000000
+      internalID: 690271644053993825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_141
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 1859
+        width: 46
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e43e61aa47b282b0800000000000000
+      internalID: -5583699056822176541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_142
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 1811
+        width: 113
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6c9b697c5a998a0800000000000000
+      internalID: -6297820327255095581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_143
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1381
+        width: 284
+        height: 368
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d6759de20a17300800000000000000
+      internalID: 248155577557413196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_144
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1307
+        width: 199
+        height: 352
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a5355e5e62a8f90800000000000000
+      internalID: -6950700306056127990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_145
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1497
+        width: 200
+        height: 353
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b39857ccb4447790800000000000000
+      internalID: -7533320699094985807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_146
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 1419
+        width: 192
+        height: 272
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03931954d79519f40800000000000000
+      internalID: 5733462195192281392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_147
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 1309
+        width: 190
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f528e7fbf30f42a60800000000000000
+      internalID: 7648502223768289887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_148
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 1549
+        width: 190
+        height: 272
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670c0a914ab9509e0800000000000000
+      internalID: -1655746158881881994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_149
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 1505
+        width: 210
+        height: 290
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 145a4bac16f951c90800000000000000
+      internalID: -7199673186920389311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_150
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 1509
+        width: 170
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb104c3c931f46a0800000000000000
+      internalID: -6462925378506712119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_151
+      rect:
+        serializedVersion: 2
+        x: 2077
+        y: 1515
+        width: 176
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f60c82400c984340800000000000000
+      internalID: 4848296523794745072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_152
+      rect:
+        serializedVersion: 2
+        x: 2301
+        y: 1515
+        width: 174
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58298fc21462abe0800000000000000
+      internalID: -1467500496615298977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_153
+      rect:
+        serializedVersion: 2
+        x: 2531
+        y: 1519
+        width: 186
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544e1267b7cb7bdd0800000000000000
+      internalID: -2470298632140495803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_154
+      rect:
+        serializedVersion: 2
+        x: 2795
+        y: 1493
+        width: 238
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84639864c1f7cdec0800000000000000
+      internalID: -3540815447600843192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_155
+      rect:
+        serializedVersion: 2
+        x: 3085
+        y: 1471
+        width: 222
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd15fdd9002566550800000000000000
+      internalID: 6153696103450497500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_156
+      rect:
+        serializedVersion: 2
+        x: 3373
+        y: 1505
+        width: 200
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19d509177635f5d0800000000000000
+      internalID: -3029455289187968741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_157
+      rect:
+        serializedVersion: 2
+        x: 3619
+        y: 1505
+        width: 220
+        height: 308
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e36bce9dbbfb1360800000000000000
+      internalID: 7141578425957573605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_158
+      rect:
+        serializedVersion: 2
+        x: 3897
+        y: 1479
+        width: 142
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf8451773beac150800000000000000
+      internalID: 5893781685724811208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_159
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 1095
+        width: 176
+        height: 354
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749ddc434b0058540800000000000000
+      internalID: 5009410934499563847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_160
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1127
+        width: 192
+        height: 266
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7ebaf5a8fd2d000800000000000000
+      internalID: 59355530512820152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_161
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 1331
+        width: 110
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 165336456da62b320800000000000000
+      internalID: 2572235805953308001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_162
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 1157
+        width: 190
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b3637cbc94bd1d0800000000000000
+      internalID: -3324982760313570534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_163
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 1153
+        width: 196
+        height: 294
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af6940adc2b87f3a0800000000000000
+      internalID: -6631678901527210246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_164
+      rect:
+        serializedVersion: 2
+        x: 2045
+        y: 1163
+        width: 178
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1fdc2ce72eafe30800000000000000
+      internalID: 4538188608591229378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_165
+      rect:
+        serializedVersion: 2
+        x: 2285
+        y: 1165
+        width: 178
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc52715a1ea33a60800000000000000
+      internalID: 7652651619891436795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_166
+      rect:
+        serializedVersion: 2
+        x: 2525
+        y: 1169
+        width: 186
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab6ce0ba115cd7c0800000000000000
+      internalID: -4045269190206264411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_167
+      rect:
+        serializedVersion: 2
+        x: 2771
+        y: 1125
+        width: 214
+        height: 296
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd680378ee449240800000000000000
+      internalID: 4797546263325732310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_168
+      rect:
+        serializedVersion: 2
+        x: 3071
+        y: 1135
+        width: 236
+        height: 292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ed5215679209af0800000000000000
+      internalID: -391767579436917093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_169
+      rect:
+        serializedVersion: 2
+        x: 3343
+        y: 1151
+        width: 222
+        height: 308
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca563e11478e99d60800000000000000
+      internalID: 7897599006784841132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_170
+      rect:
+        serializedVersion: 2
+        x: 3627
+        y: 1151
+        width: 220
+        height: 314
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9892d22ff1d5ff7d0800000000000000
+      internalID: -2882482844705412727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_171
+      rect:
+        serializedVersion: 2
+        x: 3905
+        y: 1135
+        width: 144
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4246aff0a2e9c77b0800000000000000
+      internalID: -5225127564162735068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_172
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 917
+        width: 238
+        height: 358
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 200dd4d72da9348d0800000000000000
+      internalID: -2863274709241442302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_173
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 891
+        width: 198
+        height: 364
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18afe9862ef198740800000000000000
+      internalID: 5154686305780562561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_174
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 1115
+        width: 118
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23bcccaf916065790800000000000000
+      internalID: -7541833817333642446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_175
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 1115
+        width: 116
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9000674176607750800000000000000
+      internalID: 6300648515406135452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_176
+      rect:
+        serializedVersion: 2
+        x: 2517
+        y: 841
+        width: 222
+        height: 292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39718336a22a19fb0800000000000000
+      internalID: -4642751437905324141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_177
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 677
+        width: 200
+        height: 334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06b2436fafecc650800000000000000
+      internalID: 6254637519074407946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_178
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 821
+        width: 192
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636d243010b2308a0800000000000000
+      internalID: -6340176567057852874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_179
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 873
+        width: 116
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2393dd6242d28c0800000000000000
+      internalID: -4022519142833114393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_180
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 871
+        width: 112
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186a72975c458b7b0800000000000000
+      internalID: -5208319761936046463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_181
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 817
+        width: 200
+        height: 290
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0169f54bc2a1dc040800000000000000
+      internalID: 4669417167960118800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_182
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 822
+        width: 178
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b4c999947dc1fb0800000000000000
+      internalID: -4675625602007676068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_183
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 811
+        width: 172
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6081ed3fd22e6dfe0800000000000000
+      internalID: -1164494766635870202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_184
+      rect:
+        serializedVersion: 2
+        x: 2253
+        y: 803
+        width: 186
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac34b8599215ff60800000000000000
+      internalID: 8067374757331614888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_185
+      rect:
+        serializedVersion: 2
+        x: 2803
+        y: 803
+        width: 220
+        height: 308
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791a9fc589b1cf470800000000000000
+      internalID: 8429642943739568535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_186
+      rect:
+        serializedVersion: 2
+        x: 3095
+        y: 785
+        width: 220
+        height: 290
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60393a8ecbf51eda0800000000000000
+      internalID: -5917343170426596602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_187
+      rect:
+        serializedVersion: 2
+        x: 3381
+        y: 835
+        width: 182
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f936ef9d326f4c20800000000000000
+      internalID: 3192878677644163568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_188
+      rect:
+        serializedVersion: 2
+        x: 3633
+        y: 829
+        width: 136
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93511b02684dd6410800000000000000
+      internalID: 1472066325759202617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_189
+      rect:
+        serializedVersion: 2
+        x: 3825
+        y: 835
+        width: 177
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1f4bd43e7676c50800000000000000
+      internalID: 6658404800049508799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_190
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 539
+        width: 226
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 502dbc43ed213b540800000000000000
+      internalID: 5022378755026047493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_191
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 345
+        width: 240
+        height: 298
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f372c483f01cc00800000000000000
+      internalID: 919032533430517610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_192
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 435
+        width: 186
+        height: 358
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4844a7f8b61fcabf0800000000000000
+      internalID: -311608829924457340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_193
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 489
+        width: 170
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843f5f4eac9295020800000000000000
+      internalID: 2330940233542398792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_194
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 489
+        width: 162
+        height: 304
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b32febf5d07a0880800000000000000
+      internalID: -8643972470427147343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_195
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 483
+        width: 164
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ccfb205b0fce3c0800000000000000
+      internalID: -4328820481584018397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_196
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 479
+        width: 164
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5472c739cdc7b74b0800000000000000
+      internalID: -5441618437938075835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_197
+      rect:
+        serializedVersion: 2
+        x: 2015
+        y: 467
+        width: 168
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1f4d50c181dc490800000000000000
+      internalID: -7724491277234540049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_198
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 455
+        width: 158
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca11a40391d572030800000000000000
+      internalID: 3469844400677982636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_199
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 473
+        width: 170
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea22b8619e8a98fd0800000000000000
+      internalID: -2339152812383198546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_200
+      rect:
+        serializedVersion: 2
+        x: 2718
+        y: 445
+        width: 205
+        height: 294
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d36642b025812d70800000000000000
+      internalID: 9016634304448848856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_201
+      rect:
+        serializedVersion: 2
+        x: 2995
+        y: 447
+        width: 212
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7945f725239d54ff0800000000000000
+      internalID: -52397010489224041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_202
+      rect:
+        serializedVersion: 2
+        x: 3285
+        y: 499
+        width: 170
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8402cda65728d5600800000000000000
+      internalID: 458666177877254216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_203
+      rect:
+        serializedVersion: 2
+        x: 3517
+        y: 519
+        width: 162
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e191b42005a69f0800000000000000
+      internalID: -474478839954072036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_204
+      rect:
+        serializedVersion: 2
+        x: 3765
+        y: 507
+        width: 150
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8cce4f444ecf1490800000000000000
+      internalID: -7773267639034524532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_205
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 133
+        width: 229
+        height: 298
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ea8503b967b2790800000000000000
+      internalID: -7553813541080748487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_206
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 35
+        width: 160
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94301e9e21cff5720800000000000000
+      internalID: 2837263448430150473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_207
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 73
+        width: 158
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ed32c08216c4e90800000000000000
+      internalID: -7040145292856664529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_208
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 257
+        width: 114
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afefb46952b0237c0800000000000000
+      internalID: -4093196855263101190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_209
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 257
+        width: 144
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d78962de634186b0800000000000000
+      internalID: -5295877543555397671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_210
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 255
+        width: 144
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae7cf83b922e6b40800000000000000
+      internalID: 5435319850354114213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_211
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 249
+        width: 144
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81747cf93afc25380800000000000000
+      internalID: -8983890004983462120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_212
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 255
+        width: 144
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002277aef96669a30800000000000000
+      internalID: 4221674537725927936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_213
+      rect:
+        serializedVersion: 2
+        x: 2015
+        y: 255
+        width: 144
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d1d7323ab6ab210800000000000000
+      internalID: 1349509386770128228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_214
+      rect:
+        serializedVersion: 2
+        x: 2209
+        y: 229
+        width: 144
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1eaba5b2df7503c0800000000000000
+      internalID: -4393965318462263782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_215
+      rect:
+        serializedVersion: 2
+        x: 2401
+        y: 227
+        width: 144
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3252110b37a0d3050800000000000000
+      internalID: 5781788988605015331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_216
+      rect:
+        serializedVersion: 2
+        x: 2601
+        y: 229
+        width: 146
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb7df580e531be440800000000000000
+      internalID: 4966084308694456251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_217
+      rect:
+        serializedVersion: 2
+        x: 2801
+        y: 223
+        width: 140
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91365cfe98a34feb0800000000000000
+      internalID: -4687056948078222567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_218
+      rect:
+        serializedVersion: 2
+        x: 2993
+        y: 233
+        width: 144
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ca488d14ef1e940800000000000000
+      internalID: 5323815793287539809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_219
+      rect:
+        serializedVersion: 2
+        x: 3203
+        y: 281
+        width: 156
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b7947070d230a8f0800000000000000
+      internalID: -531368885208442959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_220
+      rect:
+        serializedVersion: 2
+        x: 3419
+        y: 255
+        width: 142
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a1d5782c093ee10800000000000000
+      internalID: 2225781806020237836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_221
+      rect:
+        serializedVersion: 2
+        x: 3601
+        y: 269
+        width: 146
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633f40a829350bdf0800000000000000
+      internalID: -166541297366797514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtraProps_222
+      rect:
+        serializedVersion: 2
+        x: 3797
+        y: 279
+        width: 154
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2be96caa220b0390800000000000000
+      internalID: -7851179143085823190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ea1ad580693a5a44e8d2cd8d25132ed2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures:
+    - texture: {fileID: 2800000, guid: b103733430f0b1d17bedc322fcebaf8a, type: 3}
+      name: _NormalMap
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

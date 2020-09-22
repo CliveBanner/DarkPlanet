@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ally
+  - Enemy
+  - Neutral
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ally
+  - Neutral
+  - Enemy
+  - World
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 3126573403
+    locked: 0
+  - name: Walls
+    uniqueID: 3452757129
+    locked: 0
+  - name: Objects
+    uniqueID: 2491613003
+    locked: 0
+  - name: Actor
+    uniqueID: 3696045833
+    locked: 0
+  - name: ActorUI
+    uniqueID: 3633670681
+    locked: 0
+  - name: Dark
+    uniqueID: 305607335
+    locked: 0
+  - name: UI
+    uniqueID: 864774907
+    locked: 0
